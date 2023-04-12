@@ -1,4 +1,4 @@
-The files in this directory are macros to process images with the image processing software Fiji.
+The files in this directory are macros to process images with the image processing software Fiji. Summaries and comments of the macros were generated in part by GPT-4.
 
 **batch_sequential_varproj_savebypool_tif.ijm** is a macro to perform cumulative standard deviation projections, also known as "tracks". 
 
