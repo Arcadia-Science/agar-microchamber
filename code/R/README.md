@@ -1,5 +1,5 @@
 
-Predicting optimal chamber size for swimming cells
+**Predicting optimal chamber size for swimming cells
 
 In the pub 'Gotta catch ‘em all: Agar microchambers for high-throughput single-cell live imaging' we are interested in gaining a quantitative understanding of how confinement affects organismal biology, including cell behavior and motility. in this notebook we analyze a publicly available resource data set, the BOSO-Micro dataset (https://doi.org/10.1371/journal.pone.0252291), which contains information about cell size, shape, and behavior for 382 unicellular species/cell types of swimming prokaryotes and eukaryotes.
 
