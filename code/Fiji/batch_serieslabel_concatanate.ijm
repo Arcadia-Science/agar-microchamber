@@ -1,5 +1,5 @@
-/*This Fiji macro prompts the user to select a directory and then creates a new directory within it. 
-* It then opens each TIFF file in the selected directory, enhances contrast and adds custom  time labels to each image, 
+/*This Fiji macro prompts the user to select a directory and then creates a new directory within it.
+* It then opens each TIFF file in the selected directory, enhances contrast and adds custom  time labels to each image,
 * before saving the modified image with a label suffix in the new directory, and finally concatenates all open images.
 */
 
