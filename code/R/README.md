@@ -4,4 +4,7 @@ In the pub ['Gotta catch ‘em all: agar microchambers for high-throughput singl
 
 Organismal size is a clear constraint on chamber size. Perhaps less obvious is the effect of an organism’s speed of movement. For example, a large organism that swims slowly would likely require a different chamber size from one that swims quickly (since the faster organism would hit the chamber boundaries more frequently).
 
-To control for this, here we calculate the area covered/second for each organism and then estimate an appropriate chamber size for measuring open field swimming. A suggested scaling value of 200x area covered/second is used (calculated from the empirical relationship of Chlamydomonas rheinhardtii cells with 100 micron diamter chambers).
+To control for this, here we calculate the area covered/second for each organism and then estimate an appropriate chamber size for measuring open field swimming. A suggested scaling value of 200x area covered/second is used (calculated from the empirical relationship of Chlamydomonas rheinhardtii cells with 100 micron diameter chambers).
+
+The analysis notebook can be run on Google Colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arcadia-Science/agar-microchamber/blob/main/code/R/analysis.ipynb)

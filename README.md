@@ -25,3 +25,7 @@ Tertiary Hard Drive | Western Digital Ultrastar 18TB SATA3 |
 Case | Fractal Design Define 7 XL
 Power Supply | Super Flower LEADEX Platinum 850W |
 Additional Cooling | Case Fans Upgrade Kit (PWM Ramping) |
+
+## Contributing
+
+See how we recognize [feedback and contributions on our code](https://github.com/Arcadia-Science/arcadia-software-handbook/blob/main/guides-and-standards/guide-credit-for-contributions.md).
