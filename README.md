@@ -1,6 +1,6 @@
 # Agar Microchamber Image Processing and Analysis
 
-This repository contains code for processing images of diverse motile organisms, as well as code for analyzing confinement space for a range of organisms of different sizes. The processed images and analysis are included in the publication ['Gotta catch ‘em all: agar microchambers for high-throughput single cell live imaging'](https://research.arcadiascience.com/pub/resource-agar-microchamber). Also, a detailed protocol for making the agar microchambers can be found on protocols.io. (insert link here).
+This repository contains code for processing images of diverse motile organisms, as well as code for analyzing confinement space for a range of organisms of different sizes. The processed images and analysis are included in the publication ['Gotta catch ‘em all: agar microchambers for high-throughput single cell live imaging'](https://research.arcadiascience.com/pub/resource-agar-microchamber). Also, a detailed protocol for making the agar microchambers can be found on protocols.io. (https://www.protocols.io/edit/agar-microchamber-preparation-protocol-v2-cryrv7v6).
 
 Summary of _Chlamydomonas smithii_ motility in agar microchamber
 
