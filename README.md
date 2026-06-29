@@ -9,6 +9,14 @@ Summary of _Chlamydomonas smithii_ motility in agar microchamber
 
 ![cs_var_sum_8bit](https://user-images.githubusercontent.com/110641190/231519235-1e491dec-f6c9-4967-aeda-124b9416d838.png)
 
+## How to run
+
+This repository has two independent parts:
+
+- **R analysis notebook** (`code/R/analysis.ipynb`) predicts optimal chamber sizes from the publicly available [BOSO-Micro dataset](https://doi.org/10.1371/journal.pone.0252291), which it downloads itself. It is intended to run on Google Colab and uses Unix shell commands (`wget`/`unzip`), so a Unix-like environment is required (the Windows workstation specs below describe the Fiji image-processing setup, not the R notebook). Open it directly in Colab:
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arcadia-Science/agar-microchamber/blob/main/code/R/analysis.ipynb)
+- **Fiji macros** (`code/Fiji/*.ijm`) are interactive image-processing utilities run from [Fiji](https://imagej.net/software/fiji/) (ImageJ2 2.9.0/1.53t). See `code/Fiji/README.md` for what each macro does. The microscopy images these macros operate on are published with the associated [pub](https://doi.org/10.57844/arcadia-v1bg-6b60).
+
 ## Versions and platforms
 
 _Fiji macro_ was used with ImageJ2 Version: 2.9.0/1.53t Build: a33148d777
